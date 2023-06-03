@@ -1,0 +1,2 @@
+# django_drf_react_typescripts_facebook_app
+django_drf_react_typescripts_facebook_app
